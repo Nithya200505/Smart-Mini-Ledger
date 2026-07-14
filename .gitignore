@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+ledger.db
+server.log
+.venv/
+venv/
